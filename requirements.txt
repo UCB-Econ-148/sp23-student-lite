@@ -43,11 +43,11 @@ ipyleaflet
 
 
 # Otter-grader
-jinja2
-nbconvert
-nbformat
-dill
-jupytext
+# jinja2
+# nbconvert
+# nbformat
+# dill
+# jupytext
 
 # Python packages
 numpy
