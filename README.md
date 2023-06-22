@@ -1,4 +1,20 @@
-# JupyterLite Demo
+# Econ 148 Spring 2023 Student's Repo (JupyterLite Demo Version)
+
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://www.econ148.org/sp23-student-lite/lab/index.html)
+
+This is an experimental JupyterLite version of Econ 148: Data Science for Economists student-facing repo. It is currently under testing so we cannot guarantee that everything here will work. 
+
+All notebooks from Econ 148 Spring 2023 can be found [here](https://github.com/UCB-Econ-148/sp23-student). Visit our course website at [econ148.org](https://www.econ148.org/). 
+
+
+
+<br>
+
+---
+
+The following text is taken from the JupyterLite demo README.
+
+<br>
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
